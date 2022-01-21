@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CardsSuperheores/static/css/main.1a8a0596.css",
+    "main.js": "/CardsSuperheores/static/js/main.cc6beb34.js",
+    "index.html": "/CardsSuperheores/index.html",
+    "main.1a8a0596.css.map": "/CardsSuperheores/static/css/main.1a8a0596.css.map",
+    "main.cc6beb34.js.map": "/CardsSuperheores/static/js/main.cc6beb34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.cc6beb34.js"
+  ]
+}
